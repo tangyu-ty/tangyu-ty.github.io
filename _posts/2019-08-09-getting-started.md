@@ -7,7 +7,7 @@ author: cotes
 date: 2019-08-09 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
-media_subpath: '/posts/20180809'
+media_subpath: 'https://chirpy-img.netlify.app/posts/20180809'
 ---
 
 ## Creating a Site Repository
