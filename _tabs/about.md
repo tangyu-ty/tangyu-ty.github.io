@@ -1,10 +1,39 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
+# 关于唐宇
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hello，欢迎来到我的个人博客！我是唐宇，一名对知识充满热情的探索者。
 
-加紧建设中
+在这个空间里，我将分享我的学术旅程、研究思考以及生活感悟。
+
+## 我的学术背景
+
+2017-2021：本科-锦江学院-软件工程
+
+2021-2024：硕士-四川师范大学-电子信息
+
+2025-2029：博士-西南交通大学-计算机科学与技术
+
+
+## 研究兴趣
+
+我的研究主要集中在以下几个方向：
+
+1. 自然语言处理、推荐算法
+2. 图神经网络
+3. 边缘计算、
+4. ai加速、ai应用
+
+## 论文发表
+
+[1] 唐宇,吴贞东.基于残差网络的轻量级图卷积推荐方法[J].计算机工程与应用,2024,60(03):205-212.(中文核心)
+
+[2] Tang, Y., Peng, L., Wu, Z. et al. FAHC: frequency adaptive hypergraph constraint for collaborative filtering. Appl Intell 55, 242 (2025). https://doi.org/10.1007/s10489-024-06111-8 （sci3区）
+
+## 个人生活
+
+喜欢爬山、徒步、旅游，沉迷LOL和金铲铲
+
+## 联系方式
+
+如果您对我的研究感兴趣或有任何问题，欢迎通过与我邮箱联系。期待与您交流思想，共同进步！
+
+---
