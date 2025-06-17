@@ -144,3 +144,17 @@ pageviews:
   provider: goatcounter # now only supports 'goatcounter'
 ```
 设置完成后看看生成的site是否有goatcounter链接
+
+
+
+
+
+
+## bug修复
+
+```bash
+
+Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/jekyll-theme-chirpy.scss
+
+```
+记得资源换成production
