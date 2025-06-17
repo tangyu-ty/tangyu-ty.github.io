@@ -22,9 +22,12 @@ To learn how to use, develop, and upgrade the project, please refer to the [Wiki
 ## 部署
 建议使用JetBrains进行容器化开发，win11下无法将`_javascript`生成到`assets/js/dist`的mini版本。
 
-
 确保可以git正常
-<a>https://blog.csdn.net/qiuyeyyy/article/details/136524182</a>
+
+
+
+[https://blog.csdn.net/qiuyeyyy/article/details/136524182](https://blog.csdn.net/qiuyeyyy/article/details/136524182)
+
 ```bash
 git config --global --add safe.directory "*"
 ```
@@ -41,16 +44,16 @@ bundle exec jekyll serve
 
 主要用于本地调试，根据教程设置为开发模式
 
-<a>https://github.com/cotes2020/chirpy-static-assets</a>
+[https://github.com/cotes2020/chirpy-static-assets](https://github.com/cotes2020/chirpy-static-assets)
 
 
 ## 替换图标
 
-<a>https://pansong291.github.io/chirpy-demo-zhCN/posts/customize-the-favicon/</a>
+[https://pansong291.github.io/chirpy-demo-zhCN/posts/customize-the-favicon/](https://pansong291.github.io/chirpy-demo-zhCN/posts/customize-the-favicon/)
 
 图标生产文件
 
-<a>https://realfavicongenerator.net/</a>
+[https://realfavicongenerator.net/](https://realfavicongenerator.net/)
 
 
 linux与win的换行符自动检测
@@ -64,7 +67,7 @@ git config --global core.autocrlf tru
 
 Jekyll Compose 是一个用于简化 Jekyll 写作流程的插件。通过提供一系列命令，如创建草稿、发布文章等，Jekyll Compose 使得在 Jekyll 中管理内容变得更加高效和便捷。
 
-<a>https://github.com/jekyll/jekyll-compose</a>
+[https://github.com/jekyll/jekyll-compose](https://github.com/jekyll/jekyll-compose)
 
 在`./Gemfile`文件中添加
 ```bash
@@ -111,14 +114,14 @@ jekyll_compose:
 ### 2.添加评论插件gicus
 giscus通过GitHubDiscussions实现社区化讨论，简化用户注册，提供实时同步和定制选项。
 
-<a>https://giscus.app/zh-CN</a>
+[https://giscus.app/zh-CN](https://giscus.app/zh-CN)
 
-<a>https://blog.csdn.net/sinat_41212418/article/details/137819858 </a>
+[https://blog.csdn.net/sinat_41212418/article/details/137819858](https://blog.csdn.net/sinat_41212418/article/details/137819858)
 
 
 ### 3.站点统计goatcounter
 
-<a>https://tangyu.goatcounter.com/</a>
+[https://tangyu.goatcounter.com/](https://tangyu.goatcounter.com/)
 ```yaml
 analytics:
   google:
