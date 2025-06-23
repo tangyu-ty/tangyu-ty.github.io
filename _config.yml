@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: 唐宇(tangyu)
-  email: tangyu-t_Y@outlook.com # change to your email address
+  email: tangyu-t_y@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
 #    - https://twitter.com/username # change to your Twitter homepage
@@ -229,6 +229,7 @@ jekyll-archives:
 
 
 jekyll_compose:
+
   default_front_matter:
     drafts:
       description:
@@ -238,8 +239,8 @@ jekyll_compose:
     posts:
       description: demo描述
       image:
-      category: 默认类别
-      tags: 默认标签
-      published: false
+      category: [默认类别]
+      tags: [默认标签]
+      published: true
       sitemap: false
       author: tangyu
