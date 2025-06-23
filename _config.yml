@@ -238,9 +238,12 @@ jekyll_compose:
       tags:
     posts:
       description: demo描述
-      image:
+      pin: true
+      math: true
+      mermaid: true
       category: [默认类别]
       tags: [默认标签]
       published: true
       sitemap: false
       author: tangyu
+
