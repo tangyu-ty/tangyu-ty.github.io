@@ -23,13 +23,13 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://github.com/tangyu-ty"
 
 github:
   username: tangyu-t_y # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+#twitter:
+#  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -229,7 +229,6 @@ jekyll-archives:
 
 
 jekyll_compose:
-
   default_front_matter:
     drafts:
       description:
@@ -241,8 +240,8 @@ jekyll_compose:
       pin: true
       math: true
       mermaid: true
-      category: 默认类别
-      tags: 默认标签
+      category: [默认类别,默认类别2]
+      tags: [默认标签,默认标签2]
       published: true
       sitemap: false
       author: tangyu

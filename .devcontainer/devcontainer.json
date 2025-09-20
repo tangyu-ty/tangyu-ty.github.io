@@ -4,6 +4,11 @@
   "onCreateCommand": "git config --global --add safe.directory ${containerWorkspaceFolder}",
   "postCreateCommand": "bash .devcontainer/post-create.sh",
   "customizations": {
+    "jetbrains": {
+      "settings": {
+        "com.intellij:app:HttpConfigurable.use_proxy_pac": true
+      }
+    },
     "vscode": {
       "settings": {
         "terminal.integrated.defaultProfile.linux": "zsh"
