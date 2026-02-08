@@ -38,6 +38,12 @@ order: 4
 
 [2] Tang, Y., Peng, L., Wu, Z. et al. FAHC: frequency adaptive hypergraph constraint for collaborative filtering. Appl Intell 55, 242 (2025). https://doi.org/10.1007/s10489-024-06111-8 （sci3区）
 
+---
+## 博项目经历
+
+### 1.QT国产化终端
+
+主要职责：负责将已有的QT终端，迁移到国产化设备上，完成代码级运行优化，降低了对设备性能的需求，并进行少量二次开发。
 
 ---
 ## 个人生活
