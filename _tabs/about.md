@@ -26,8 +26,11 @@ order: 4
 我的研究主要集中在以下几个方向：
 
 ~~1. 自然语言处理、推荐算法~~
+
 ~~2. 图神经网络、时空预测~~
+
 ~~3. 边缘计算、语义通信~~
+
 ~~4. ai推理加速、ai应用~~
 
 目前对
@@ -42,7 +45,7 @@ order: 4
 
 [1] 唐宇,吴贞东.基于残差网络的轻量级图卷积推荐方法[J].计算机工程与应用,2024,60(03):205-212.(中文核心)
 
-[2] Tang, Y., Peng, L., Wu, Z. et al. FAHC: frequency adaptive hypergraph constraint for collaborative filtering. Appl Intell 55, 242 (2025). https://doi.org/10.1007/s10489-024-06111-8 （sci3区）
+[2] Tang, Y., Peng, L., Wu, Z. et al. FAHC: frequency adaptive hypergraph constraint for collaborative filtering. Appl Intell 55, 242 (2025). https://doi.org/10.1007/s10489-024-06111-8 （sci2区）
 
 ---
 ## 博项目经历
@@ -54,6 +57,19 @@ order: 4
 ### 2.多模态融合
 
 雷达+视觉方面的融合，做预测， ing
+
+
+---
+## 获奖
+
+### 1.2026 腾讯开悟人工智能全球公开赛
+
+低空智能强化学习飞行控制
+
+- 初赛：第8名
+- 复赛线上：第3名
+
+
 
 ---
 ## 个人生活
