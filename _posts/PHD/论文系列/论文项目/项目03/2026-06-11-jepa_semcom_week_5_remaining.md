@@ -28,17 +28,19 @@ author: tangyu
 
 `semcom_jepa_starter`
 
+✅❌❓
+
 任务：
 
-- CIFAR-10 image -> semantic encoder -> latent。
-- latent 经过 AWGN channel。
-- receiver classifier 直接完成分类。
-- 不做图像重建，先做 task-oriented SemCom。
+- CIFAR-10 image -> semantic encoder -> latent。✅
+- latent 经过 AWGN channel。✅
+- receiver classifier 直接完成分类。✅
+- 不做图像重建，先做 task-oriented SemCom。✅
 
 实验：
 
-- latent_dim = 64, 128, 256。
-- SNR = -5, 0, 5, 10, 15, 20 dB。
+- latent_dim = 64, 128, 256。✅
+- SNR = -5, 0, 5, 10, 15, 20 dB。✅
 - 记录 accuracy。
 
 本周产出：
